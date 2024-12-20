@@ -1,4 +1,4 @@
-# NurOS Iconpack Night - Design System
+# DeltaDesign Concept Night - Design System
 
 ## Design
 The main concept of NurOS Iconpack Night is based on the following principles:

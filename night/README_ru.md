@@ -1,4 +1,4 @@
-# NurOS Iconpack Night - Дизайн-система
+# DeltaDesign Concept Night - Дизайн-система
 
 ## Дизайн
 Основная концепция NurOS Iconpack Night основана на принципах:

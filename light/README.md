@@ -1,4 +1,4 @@
-# NurOS Iconpack Light - Design System
+# DeltaDesign Concept Light - Design System
 
 ## Design
 The main concept of NurOS Iconpack Light is based on the following principles:

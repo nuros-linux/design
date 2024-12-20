@@ -1,4 +1,4 @@
-# NurOS Iconpack Sunset - Design System
+# DeltaDesign Concept - Design System
 
 ## Design
 The main concept of NurOS Iconpack Sunset is inspired by the transition from day to night:
